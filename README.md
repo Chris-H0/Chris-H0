@@ -1,3 +1,3 @@
-# Chris-H0
+# Chris
 - Computing student.
 - Interested in applied AI engineering.
